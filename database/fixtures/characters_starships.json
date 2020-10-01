@@ -1,0 +1,16 @@
+[
+  { "character_id": 1, "starship_id": 12 },
+  { "character_id": 1, "starship_id": 22 },
+  { "character_id": 4, "starship_id": 13 },
+  { "character_id": 9, "starship_id": 12 },
+  { "character_id": 13, "starship_id": 10 },
+  { "character_id": 13, "starship_id": 22 },
+  { "character_id": 14, "starship_id": 10 },
+  { "character_id": 14, "starship_id": 22 },
+  { "character_id": 18, "starship_id": 12 },
+  { "character_id": 19, "starship_id": 12 },
+  { "character_id": 22, "starship_id": 21 },
+  { "character_id": 25, "starship_id": 10 },
+  { "character_id": 29, "starship_id": 28 },
+  { "character_id": 31, "starship_id": 10 }
+]

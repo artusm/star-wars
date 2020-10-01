@@ -1,0 +1,11 @@
+[
+  { "id": 1, "classification_name": "mammal" },
+  { "id": 2, "classification_name": "artificial" },
+  { "id": 3, "classification_name": "sentient" },
+  { "id": 4, "classification_name": "gastropod" },
+  { "id": 5, "classification_name": "reptile" },
+  { "id": 6, "classification_name": "amphibian" },
+  { "id": 7, "classification_name": "mammals" },
+  { "id": 8, "classification_name": "insectoid" },
+  { "id": 9, "classification_name": "reptilian" }
+]

@@ -1,0 +1,18 @@
+[
+  { "id": 1, "climate_name": "arid" },
+  { "id": 2, "climate_name": "temperate" },
+  { "id": 3, "climate_name": "tropical" },
+  { "id": 4, "climate_name": "frozen" },
+  { "id": 5, "climate_name": "murky" },
+  { "id": 6, "climate_name": "windy" },
+  { "id": 7, "climate_name": "hot" },
+  { "id": 8, "climate_name": "artificial temperate " },
+  { "id": 9, "climate_name": "frigid" },
+  { "id": 10, "climate_name": "humid" },
+  { "id": 11, "climate_name": "moist" },
+  { "id": 12, "climate_name": "polluted" },
+  { "id": 13, "climate_name": "superheated" },
+  { "id": 14, "climate_name": "subartic" },
+  { "id": 15, "climate_name": "artic" },
+  { "id": 16, "climate_name": "rocky" }
+]
